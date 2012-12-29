@@ -32,6 +32,14 @@ background-position: top left ;
 	width: 20px;
 }
 
+.tl_logo {
+	verticle-align: bottom ; 
+}
+
+.barmenu {
+	verticle-align: bottom ; 
+}
+
 .copyfooter {
 }
 
