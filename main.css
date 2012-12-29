@@ -3,14 +3,14 @@
 vertical-align: top; 
 height: 60px; 
 width: 800px;
-background-image: url('800x60topdropshadow.png') ;
+background-image: url('./Art/800x60topdropshadow.png') ;
 background-repeat: no-repeat  ;
 background-position: top left ; 
 }
 
 .middlebg {
 vertical-align: top; 
-background-image: url('800x10middledropshadow.png') ;
+background-image: url('./Art/800x10middledropshadow.png') ;
 background-repeat: repeat-y ;
 background-position: top left ;
 }
@@ -19,11 +19,17 @@ background-position: top left ;
 vertical-align: top; 
 height: 60px; 
 width: 800px;
-background-image: url('800x60bottomdropshadow.png') ;
+background-image: url('./Art/800x60bottomdropshadow.png') ;
 background-repeat: no-repeat  ;
 background-position: top left ; 
 }
 
-vertical-align: top; 
+.leftmargin {
+}
 
+.rightmargin {
+}
+
+.copyfooter {
+}
 
