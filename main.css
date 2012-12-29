@@ -25,9 +25,11 @@ background-position: top left ;
 }
 
 .leftmargin {
+	width: 20px;
 }
 
 .rightmargin {
+	width: 20px;
 }
 
 .copyfooter {
